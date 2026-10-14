@@ -2,7 +2,7 @@
 
 An Oracle SQL coursework project modelling the operations of a transport and removals business. The project covers relational schema design, sample data, data manipulation, schema evolution, business reporting, and the generation of nested JSON documents.
 
-This README provides a high-level overview of Tasks 1–6 without reproducing assessment answers or personal identifiers. Descriptions are based on the SQL files currently present in the repository.
+This README provides a high-level overview of Tasks 1–6 without reproducing assessment answers or personal identifiers. Descriptions are based on the SQL files reviewed in the separate private project repository.
 
 ## Business context
 
@@ -14,7 +14,7 @@ The database represents customer quotes, transport jobs, employees, truck–trai
 - **Oracle SQL/JSON:** `JSON_OBJECT` and `JSON_ARRAYAGG` for customer-oriented documents.
 - **SQL client commands:** output settings and table descriptions used alongside SQL statements.
 
-The available files demonstrate JSON generation in Oracle. A MongoDB import or query script is not included, so MongoDB implementation is not verified by this repository.
+The reviewed source demonstrates JSON generation in Oracle. No MongoDB import or query script was available for verification.
 
 ## Tasks 1–6
 
